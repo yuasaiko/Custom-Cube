@@ -19,12 +19,14 @@ Custom Cube allows you to:
 ### 0. Add Images
 Place your 6 images in the `data/` folder and name them as follows:
 
-data/face0.png
-data/face1.png
-data/face2.png
-data/face3.png
-data/face4.png
+'
+data/face0.png  
+data/face1.png  
+data/face2.png  
+data/face3.png  
+data/face4.png  
 data/face5.png
+'
 
 
 ### 1. Select a Cube Mode
