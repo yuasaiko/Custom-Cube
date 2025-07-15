@@ -52,16 +52,7 @@ Choose a game mode or difficulty level to start.
 
 ---
 
-## 🎥 Demonstration
-
-Want to see it in action? Check out the demo in the `demo/` folder or try it live!
-
----
-
 ## 📦 Try It Yourself
-
-The source code is available on **GitHub**:  
-👉 [GitHub Repository](https://your-repo-link-here)
 
 Feel free to clone, modify, and share!
 
