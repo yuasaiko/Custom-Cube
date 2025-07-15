@@ -1,3 +1,4 @@
+![Custom Cube Logo](logo.png)
 # 🧊 Custom Cube
 
 **Custom Cube** is a Rubik’s Cube-style application where you can personalize each face with your own images.  
